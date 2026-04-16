@@ -1,0 +1,15 @@
+{
+    "student":{
+        "name":"Alice",
+        "id":"STU-2024-001",
+        "age":20
+    },
+    "subjects":[
+         {   "name":"Mathematics", "Score":[88,92,85,90,69]},
+       {   "name":"physics", "Score":[78,82,80,85,88]},
+            {   "name":"English", "Score":[90,85,88,92,91]},
+            {   "name":"chemistry", "Score":[70,75,80,78,82]},
+        {   "name":"programming", "Score":[95,98,92,94,96]}
+        
+    ]
+}
