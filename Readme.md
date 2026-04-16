@@ -20,3 +20,8 @@ utils -> gradeCalculator.js
         Created three function named gradeCalculator,calculate average,get trend
         calculateaverage function divide the total score by 2 
         also the grade is descided by the using if condition
+
+        Validation.js:
+server.js:
+        post get api are called in this file
+        this happens the port to run
